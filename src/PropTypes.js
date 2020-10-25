@@ -1,5 +1,5 @@
-import PropTypes from 'prop-types'
-import StyleValidator from './StyleValidator'
+import PropTypes from "prop-types";
+import StyleValidator from "./StyleValidator";
 
 export const styleValidator = new StyleValidator()
 

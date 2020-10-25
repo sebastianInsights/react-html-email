@@ -1,4 +1,4 @@
-import supportMatrix from './supportMatrix.json'
+import supportMatrix from "./supportMatrix.json";
 
 const capsRe = /[A-Z]/g
 
